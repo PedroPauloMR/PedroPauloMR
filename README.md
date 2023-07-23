@@ -3,8 +3,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPauloMR&theme=radical)](https://github.com/PedroPauloMR/github-readme-stats)  
 
-<img align="center" alt="Pedro Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Pedro MSSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Pedro Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img align="center" alt="Pedro MSSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Pedro jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="center" alt="Pedro pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
           
 
 
@@ -16,8 +18,11 @@
   
 
 Some projects:
- - [Projetos Data Science](https://github.com/rafaelfabri/Data-Science)
- - [Artigos Data Science](https://github.com/rafaelfabri/Artigos-Data-Science)
+ - [Financial markets](https://github.com/PedroPauloMR/mercado_financeiro)
+ - [Cardiac Diagnostics](https://github.com/PedroPauloMR/cardio_catch_disease)
+ - [Best Buyers Identification](https://github.com/PedroPauloMR/pa005_insiderclustering)
+ - [Identification of Fraudulent Transactions](https://github.com/PedroPauloMR/block_fraud_company)
+ - [Client Churn Prediction](https://github.com/PedroPauloMR/client_churn_prediction)
 
 # About me
 Apprenticeship at Data Science Community - <img align="center" alt="Pedro CDS" height="70" width="300" src="https://comunidadeds.com/wp-content/uploads/2023/01/cropped-Logotipo-H-CDS-Laranja-e-Branco-scaled-1.jpg">
