@@ -3,10 +3,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPauloMR&theme=radical)](https://github.com/PedroPauloMR/github-readme-stats)  
 
-<img align="center" alt="Pedro Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-<img align="center" alt="Pedro MSSQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="center" alt="Pedro jupyter" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-<img align="center" alt="Pedro pandas" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+<img align="center" alt="Pedro Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<img align="center" alt="Pedro MSSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+<img align="center" alt="Pedro jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+<img align="center" alt="Pedro pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
           
 
 
